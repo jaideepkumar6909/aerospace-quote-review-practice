@@ -1,0 +1,15 @@
+part_number,description,list_price,unit_cost,status,data_label
+PX-1100-06,"Circular connector, size 11, 6 contacts, plug",84.00,46.00,active,FICTIONAL PRACTICE DATA
+PX-1100-10,"Circular connector, size 11, 10 contacts, receptacle",96.50,55.00,active,FICTIONAL PRACTICE DATA
+PX-1300-19,"Circular connector, size 13, 19 contacts, plug",142.00,84.00,active,FICTIONAL PRACTICE DATA
+PX-1300-26,"Circular connector, size 13, 26 contacts, receptacle",158.75,96.00,active,FICTIONAL PRACTICE DATA
+PX-2200-37,"Circular connector, size 19, 37 contacts, plug",265.00,168.00,active,FICTIONAL PRACTICE DATA
+PX-2200-55,"Circular connector, size 21, 55 contacts, receptacle",312.40,205.00,active,FICTIONAL PRACTICE DATA
+PX-4400-61,"Circular connector, size 25, 61 contacts, plug (legacy part, thin margin)",395.00,322.00,legacy,FICTIONAL PRACTICE DATA
+RX-0450-25,"Rectangular connector, 25 contacts, plug",58.20,33.00,active,FICTIONAL PRACTICE DATA
+RX-0450-50,"Rectangular connector, 50 contacts, receptacle",94.00,56.50,active,FICTIONAL PRACTICE DATA
+CX-0210-S,"Coaxial connector, straight plug",27.50,14.75,active,FICTIONAL PRACTICE DATA
+CX-0210-R,"Coaxial connector, right-angle plug",33.90,19.40,active,FICTIONAL PRACTICE DATA
+BK-7700-A,"Backshell, straight, size 13",46.00,27.00,active,FICTIONAL PRACTICE DATA
+BK-7700-B,"Backshell, 90-degree, size 13",61.50,38.20,active,FICTIONAL PRACTICE DATA
+CT-3300-20,"Contact kit, size 20, crimp style, 100 pieces",189.00,112.00,active,FICTIONAL PRACTICE DATA
